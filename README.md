@@ -3,7 +3,7 @@
 >
 > If you are experiencing problems, please [report the issue](https://github.com/vlang/vls/issues/new).
 
-# V Language Server
+# V Language Server - A VOSCA and Petr Makhnev project
 [![CI](https://github.com/vlang/vls/actions/workflows/ci.yml/badge.svg)](https://github.com/vlang/vls/actions/workflows/ci.yml)
 
 V Language Server (also known as "VLS") is a LSP v3.15-compatible language server for [the V programming language](https://github.com/vlang/v).
